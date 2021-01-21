@@ -28,9 +28,11 @@ body {
 .cal-container input {
   width: 74%;
   height: 66px;
-  color: blue;
+  color: #fff;
   text-align: right;
   font-size: 1.7rem;
+  background-color: transparent;
+  border-style: none;
 }
 
 .cal-container button {
